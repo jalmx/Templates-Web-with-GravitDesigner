@@ -5,10 +5,11 @@ Templates designed in [GravitDesigner](https://www.designer.io/ "GravitDesigner"
 You can free to use and modify
 ## In Progress...
 
-<img src="https://raw.githubusercontent.com/jalmx89/Dummy-templates/master/view/tigerZooWeb.png" alt="templeta tiger zoo" height="500px">
+<img src="https://raw.githubusercontent.com/jalmx89/Dummy-templates/master/view/tigerZooWeb.png" alt="templeta tiger zoo" height="650px">
 
 
 ``` License
+
 The MIT License (MIT)
 
 Copyright (c) 2018 Josef Leyva
@@ -18,4 +19,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 ```
